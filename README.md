@@ -1,7 +1,6 @@
 # NamasteMart
 Source code - https://github.com/gupta123456priyanka/EcommApp
-
-<img width="218" height="433" alt="Screenshot 2025-08-17 at 12 56 57 PM" src="https://github.com/user-attachments/assets/98838bf9-ba30-488d-8bb0-3fefeb9f0ed3" />
+ 
 <img width="211" height="436" alt="Screenshot 2025-08-17 at 12 56 45 PM" src="https://github.com/user-attachments/assets/c864b74a-1b56-4f24-b3e6-edddf931efd3" />
 <img width="211" height="429" alt="Screenshot 2025-08-17 at 12 32 06 PM" src="https://github.com/user-attachments/assets/47c7df52-3258-4098-8cb7-a8c801d26caf" />
 <img width="213" height="442" alt="Screenshot 2025-08-17 at 12 30 28 PM" src="https://github.com/user-attachments/assets/2f89ca58-da68-4bec-a5c7-7d08b37c5d3f" />
@@ -10,3 +9,4 @@ Source code - https://github.com/gupta123456priyanka/EcommApp
 <img width="211" height="413" alt="Screenshot 2025-08-17 at 12 57 16 PM" src="https://github.com/user-attachments/assets/a98a9d34-9e7e-4027-be41-8ce0701e8243" />
 <img width="229" height="434" alt="Screenshot 2025-08-17 at 12 55 38 PM" src="https://github.com/user-attachments/assets/1c43ae52-c1a2-4c24-8573-ee13e7421832" /> 
 
+<img width="230" height="422" alt="Screenshot 2025-08-17 at 1 06 26 PM" src="https://github.com/user-attachments/assets/f14cbf8d-e7ef-4957-a72b-7983538f0d40" />
