@@ -1,5 +1,5 @@
-# NamasteMart
-Source code - https://github.com/gupta123456priyanka/EcommApp
+ Source code - https://github.com/gupta123456priyanka/EcommApp
+ (SOURCE CODE ISN'T PUBLIC)
  
 <img width="211" height="436" alt="Screenshot 2025-08-17 at 12 56 45 PM" src="https://github.com/user-attachments/assets/c864b74a-1b56-4f24-b3e6-edddf931efd3" />
 <img width="211" height="429" alt="Screenshot 2025-08-17 at 12 32 06 PM" src="https://github.com/user-attachments/assets/47c7df52-3258-4098-8cb7-a8c801d26caf" />
