@@ -9,4 +9,5 @@ Source code - https://github.com/gupta123456priyanka/EcommApp
 <img width="219" height="437" alt="Screenshot 2025-08-17 at 12 55 47 PM" src="https://github.com/user-attachments/assets/957983bb-8dcb-41b3-8850-0e99d45bed6c" />
 <img width="211" height="413" alt="Screenshot 2025-08-17 at 12 57 16 PM" src="https://github.com/user-attachments/assets/a98a9d34-9e7e-4027-be41-8ce0701e8243" />
 <img width="229" height="434" alt="Screenshot 2025-08-17 at 12 55 38 PM" src="https://github.com/user-attachments/assets/1c43ae52-c1a2-4c24-8573-ee13e7421832" />
-12 29 50 PM" src="https://github.com/user-attachments/assets/8280a7e0-5664-4ff8-887c-88cb07545ceb" />
+12 29 50 PM" src="https://github.com/user-attachments/assets/8280a7e0-5664-4ff8-887c-88cb07545ceb" /><img width="218" height="428" alt="Screenshot 2025-08-17 at 1 02 51 PM" src="https://github.com/user-attachments/assets/d95726b9-1e59-43a6-950d-2ae1ce919af1" />
+
