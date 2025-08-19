@@ -1,5 +1,8 @@
  Source code - https://github.com/gupta123456priyanka/EcommApp
  (SOURCE CODE ISN'T PUBLIC)
+ <img width="265" height="550" alt="image" src="https://github.com/user-attachments/assets/5feaf858-7f90-4c5b-b09b-daefd2fbd2ce" />
+<img width="263" height="545" alt="image" src="https://github.com/user-attachments/assets/810771a1-919e-4da1-9669-689ec80b4ed5" />
+
  
 <img width="211" height="429" alt="Screenshot 2025-08-17 at 12 32 06 PM" src="https://github.com/user-attachments/assets/47c7df52-3258-4098-8cb7-a8c801d26caf" />
 <img width="213" height="442" alt="Screenshot 2025-08-17 at 12 30 28 PM" src="https://github.com/user-attachments/assets/2f89ca58-da68-4bec-a5c7-7d08b37c5d3f" />
